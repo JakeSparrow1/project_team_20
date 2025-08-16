@@ -13,7 +13,8 @@
 - Taonga  
 - Chibwanta  
 - Ebenezer  
-- Nelson  
+- Nelson
+- Stephan
 
 (*Each member has contributed to this submission with a commit tagged `[BU]`.*)
 
