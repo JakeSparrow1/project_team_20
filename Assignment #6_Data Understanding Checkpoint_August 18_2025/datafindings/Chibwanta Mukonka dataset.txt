@@ -1,0 +1,167 @@
+
+
+1.
+
+Extraction and Demonstration of Uterotonic Activity from the Root of Steganotaenia araliacea Hochst.
+
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Ezeala, Christian	
+dc.contributor.author	Nyirenda, James	
+dc.contributor.author	Chuba, David	
+dc.contributor.author	Simfukwe, Newton	
+dc.contributor.author	Lengwe, Chilufya	
+dc.date.accessioned	2018-11-22T10:29:45Z	
+dc.date.available	2018-11-22T10:29:45Z	
+dc.date.issued	2017-09-14	
+dc.description.abstract	The root of Steganotaenia araliacea is used for assisting labour in folk medicine. Recent reports indicate that the root could possess uterotonic substances.The study aimed to evaluate three methods for the extraction of uterotonic principles from the root of S. araliacea growing in Zambia. Roots of the plant were collected from Chongwe District of Zambia. The air-dried roots were size-reduced, and the powdered material extracted with hot ethanol, hot distilled water, and cold distilled water. The solvent extracts were concentrated and dried at 110 0C. Solutions of the hot aqueous and cold aqueous extracts were prepared in distilled water and used for organ bath experiments to demonstrate uterotonic activities using strips of pregnant rat uterus. The frequencies and amplitude of contractile forces were recorded. The amplitudes were plotted against log concentration of extract with GraphPad Prism software, and the EC50 values determined. The percentage yields were 31.3 % for the hot aqueous extract, 8.15 % for the ethanolic extract, and 3.27 % for the cold aqueous extract. The cold aqueous extract showed higher potency (EC50 of 0.54 mg/ml) compared to the hot aqueous extract (EC50 of 2.09 mg/ml). Root extracts of S. araliacea possess demonstrable uterotonic effects. Extraction of the roots for this purpose could benefit from preliminary defatting with organic solvents, followed by successive extraction with hot and cold water.	en
+dc.description.sponsorship	National Science and technology Council of Zambia	en
+dc.identifier.issn	0047-651X	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5491	
+dc.language.iso	en	en
+dc.publisher	Zambian Medical Association	en
+dc.subject	Steganotaenia araliacea	en
+dc.subject	Child birth	en
+dc.subject	potency	en
+dc.subject	medicinal plant	en
+dc.subject	extraction methods	en
+dc.title	Extraction and Demonstration of Uterotonic Activity from the Root of Steganotaenia araliacea Hochst.	en
+dc.type	Article
+
+
+
+2.
+Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Hamachila, Audrey	
+dc.contributor.author	Mutati, Ronald Kampamba	
+dc.contributor.author	Zingani, Ellah	
+dc.contributor.author	Mwila, Chiluba	
+dc.contributor.author	Musoke, Pamela	
+dc.date.accessioned	2018-12-04T08:13:17Z	
+dc.date.available	2018-12-04T08:13:17Z	
+dc.date.issued	2016-01	
+dc.description.abstract	Indigenous knowledge systems and traditional technologies have made and can continue to make a significant contribution to modern medicines with discovery of novel molecules in the treatment of various conditions. The traditional knowledge in our communities is passed on from generation to generation. Scientific evaluation of these compounds from traditional medicines can lead to discovery drugs with better efficacy and novel mechanism. The study aimed at determining the indigenous knowledge based preparations used for hypertension in Lusaka, Zambia. The specific objectives were: a). To determine the knowledge and practice of Traditional Health Practitioners in the management of HTN, b). To identify the parts of the plants utilized in the preparation of the IKS-based preparation used in the management of hypertension. c). To determine the procedure employed in preparing the IKS-based preparations used in the management of hypertension. d). To recommend for further elucidation of the possible active compounds in the indigenous based preparations and postulate possible pharmacological mechanisms of actions. The study adopted structured interviews complemented by non-participatory observations. Samples used by traditional healers were collected for identification and characterization A total of twelve (12) traditional healers registered with Traditional Health Practitioners of Zambia who manage hypertension were interviewed. The traditional healers interviewed had knowledge of causes of hypertension, only three (3) indicated bewitchment as one of the causes. spiritual method constituted an important method of diagnosis. The beliefs of Traditional Healers with regard to hypertension indicates their alignment to agreeing the scientific understanding of hypertension in terms of its causes, risk factors and complications. Traditional Healers in Zambia believe hypertension can be managed by some mode of action of the herbs. Common themes that emerged to determine the effectiveness of the herbs used included; patient feedback, physical appearance, confirmation at local clinic and increased urine output. Majority (5/12) felt that there herbs take atleast 7-14 before the effects are seen. All the traditional healers indicated using atleast two (2) types of herbal preparations to manage hypertension. Of the preparations mentioned three (3) were not of plant origin. These include; crocodile fat, pebble and honey. This study observed that the traditional healers of Zambia knowledge of causes and complications of hypertension are alligned to the scientific knowledge. Divination is however still the most important (50%) method used for diagnosis and witchcraft/ spiritual method forms an important method for some for diagnosis of hypertension. It is noteworthy that traditional healers in Zambia believe hypertension can be managed by some mode of action of the herbs a belief shared by the conventional management.	en
+dc.description.sponsorship	National Science and Technology Council (NSTC)	en
+dc.identifier.issn	0047-651 X	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5494	
+dc.language.iso	en	en
+dc.publisher	Zambian Medical Association	en
+dc.subject	hypertension, traditional health practitioners, indigenous knowledge, medicinal plants.	en
+dc.title	Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.	en
+dc.type	Article
+
+
+
+3.
+Physiological response of uterine muscle to Steganoteania araliacea in rat models
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Lukubi, Lwindi	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Mushabati, Festus	
+dc.contributor.author	Choongo, Kennedy	
+dc.date.accessioned	2018-11-20T11:32:47Z	
+dc.date.available	2018-11-20T11:32:47Z	
+dc.date.issued	2015-01	
+dc.description.abstract	The bark root of Steganotaenia araliacea Hochst (Umbelliferae) nicknamed “herbal pitocin” is used in the traditional circles in Zambia to induce and/or enhance labour. This work was aimed at investigating the contractile stimulatory effects of the aqueous extracts of Steganotaenia araliacea (SAEª) on isolated smooth muscle preparations of the rat uterus. Objectives: To determine the physiological effect of SAEª on isolated pregnant and non-pregnant uterine muscle. Methods: A gravid/non-gravid rat was sacrificed by cervical dislocation (decapitation) method and the abdomen opened to expose the internal organs. The two uterine horns were identified, dissected out and transferred to a dish containing De Jalon’s physiological solution. Acetylcholine (Ach) and Oxytocin (OT) were used as reference agonist with their corresponding antagonists; atropine (AT), and indomethacin and salbutamol (SBM) respectively. The effect of these reference agonists with their corresponding antagonist and that of aqueous extract of SAE on non-pregnant rat uterus pre-treated with 1 mg/kg stilboesterol for 24 h and on the pregnant rat uterus were investigated. Results: In vitro studies of SAEª on uterine tissue showed contractile (uterotonic) activity on both isolated gravid and estrogenized non-gravid rat uterus at the concentration shown in this study. SAE ª significantly increased the amplitude(from baseline value of 0.1471mN to 0.3003mN) and frequency of spontaneous uterine contractions. However, SBM significantly inhibited (p < 0.05) the frequency and amplitude of spontaneous uterine contractions on the isolated pregnant and non – pregnant rat uterus preparations but atropine and indomethacin could not modify the contractions produced by SAEª, hence indicating a non-muscarinic and non-prostaglandin biosynthesis dependant respectively. Conclusion: The inhibition of contractile effect of the crude aqueous extract of SAEª shown by Salbutamol (p < 0.05) suggests the probable stimulation of the Oxytocinergic receptors of the uterus by the extract. These physiological finding justify the traditional use of the plant for its uterotonic properties.	en
+dc.identifier.issn	1694-1217	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5479	
+dc.language.iso	en	en
+dc.publisher	RA Publications	en
+dc.subject	Steganotaenia araliacea, uterine, Oxytocin, Atropine	en
+dc.title	Physiological response of uterine muscle to Steganoteania araliacea in rat models	en
+dc.type	Article
+
+
+4.
+Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Hamachila, Audrey	
+dc.contributor.author	Mutati, Ronald Kampamba	
+dc.contributor.author	Zingani, Ellah	
+dc.contributor.author	Mwila, Chiluba	
+dc.contributor.author	Musoke, Pamela	
+dc.date.accessioned	2018-12-04T08:13:17Z	
+dc.date.available	2018-12-04T08:13:17Z	
+dc.date.issued	2016-01	
+dc.description.abstract	Indigenous knowledge systems and traditional technologies have made and can continue to make a significant contribution to modern medicines with discovery of novel molecules in the treatment of various conditions. The traditional knowledge in our communities is passed on from generation to generation. Scientific evaluation of these compounds from traditional medicines can lead to discovery drugs with better efficacy and novel mechanism. The study aimed at determining the indigenous knowledge based preparations used for hypertension in Lusaka, Zambia. The specific objectives were: a). To determine the knowledge and practice of Traditional Health Practitioners in the management of HTN, b). To identify the parts of the plants utilized in the preparation of the IKS-based preparation used in the management of hypertension. c). To determine the procedure employed in preparing the IKS-based preparations used in the management of hypertension. d). To recommend for further elucidation of the possible active compounds in the indigenous based preparations and postulate possible pharmacological mechanisms of actions. The study adopted structured interviews complemented by non-participatory observations. Samples used by traditional healers were collected for identification and characterization A total of twelve (12) traditional healers registered with Traditional Health Practitioners of Zambia who manage hypertension were interviewed. The traditional healers interviewed had knowledge of causes of hypertension, only three (3) indicated bewitchment as one of the causes. spiritual method constituted an important method of diagnosis. The beliefs of Traditional Healers with regard to hypertension indicates their alignment to agreeing the scientific understanding of hypertension in terms of its causes, risk factors and complications. Traditional Healers in Zambia believe hypertension can be managed by some mode of action of the herbs. Common themes that emerged to determine the effectiveness of the herbs used included; patient feedback, physical appearance, confirmation at local clinic and increased urine output. Majority (5/12) felt that there herbs take atleast 7-14 before the effects are seen. All the traditional healers indicated using atleast two (2) types of herbal preparations to manage hypertension. Of the preparations mentioned three (3) were not of plant origin. These include; crocodile fat, pebble and honey. This study observed that the traditional healers of Zambia knowledge of causes and complications of hypertension are alligned to the scientific knowledge. Divination is however still the most important (50%) method used for diagnosis and witchcraft/ spiritual method forms an important method for some for diagnosis of hypertension. It is noteworthy that traditional healers in Zambia believe hypertension can be managed by some mode of action of the herbs a belief shared by the conventional management.	en
+dc.description.sponsorship	National Science and Technology Council (NSTC)	en
+dc.identifier.issn	0047-651 X	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5494	
+dc.language.iso	en	en
+dc.publisher	Zambian Medical Association	en
+dc.subject	hypertension, traditional health practitioners, indigenous knowledge, medicinal plants.	en
+dc.title	Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.	en
+dc.type	Article
+
+
+
+
+5.
+Assessment of Level of Knowledge of Management of Acne vulgaris among Community Pharmacists and Prescribers in Lusaka Urban
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Kachipond, Fredrick	
+dc.contributor.author	Nagalamika, Owen	
+dc.date.accessioned	2018-11-21T06:13:02Z	
+dc.date.available	2018-11-21T06:13:02Z	
+dc.date.issued	2015-12	
+dc.description.abstract	Acne is a common skin condition affecting almost 85% of the population. Everyone has the risk of developing acne at certain stages of life. The management of acne in early stages is important for disease prognosis. Patients with acne usually present at community pharmacies and clinics during the early stages of their disease. Assessment of knowledge and practice of community pharmacists and prescribers in treating these patients is required. The aim of this study was to assess the levels of knowledge in acne management among community pharmacists and prescribers in Lusaka urban. The study was designed as a cross-sectional survey and was conducted on 89 community pharmacists and prescribers working in Lusaka, Zambia. Participants were asked to answer a self administered questionnaire on the management of acne vulgaris that comprised questions evaluating the knowledge on disease causes, aggravating or relieving factors, treatment practices and use of reference materials. The study revealed that Pharmacists and prescribers had inadequate levels of knowledge on disease management; 21% had low levels of knowledge where as only 6% had high levels of knowledge. By category, 36% of the prescribers had low levels and 10% had high levels of knowledge. 8% of the pharmacists had low levels of knowledge and only 2% had high levels. Lack of knowledge was reflected in their treatment practices, 62.9% never classified acne when initiating treatment and less than a quarter managed acne cases independently. This study showed no association of levels of knowledge to referral of patients with severe acne (p>0.05). It was concluded from the study that pharmacists and prescribers have inadequate knowledge and practice for management of acne. Steps should be taken to update and improve their dermatological knowledge.	en
+dc.identifier.issn	2321-2639	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5483	
+dc.language.iso	en	en
+dc.publisher	Asian Online Journals	en
+dc.subject	Acne, Knowledge, Prescribers, Pharmacist, Management	en
+dc.title	Assessment of Level of Knowledge of Management of Acne vulgaris among Community Pharmacists and Prescribers in Lusaka Urban	en
+dc.type	Article
+
+
+6.
+Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Hamachila, Audrey	
+dc.contributor.author	Mutati, Ronald Kampamba	
+dc.contributor.author	Zingani, Ellah	
+dc.contributor.author	Mwila, Chiluba	
+dc.contributor.author	Musoke, Pamela	
+dc.date.accessioned	2018-12-04T08:13:17Z	
+dc.date.available	2018-12-04T08:13:17Z	
+dc.date.issued	2016-01	
+dc.description.abstract	Indigenous knowledge systems and traditional technologies have made and can continue to make a significant contribution to modern medicines with discovery of novel molecules in the treatment of various conditions. The traditional knowledge in our communities is passed on from generation to generation. Scientific evaluation of these compounds from traditional medicines can lead to discovery drugs with better efficacy and novel mechanism. The study aimed at determining the indigenous knowledge based preparations used for hypertension in Lusaka, Zambia. The specific objectives were: a). To determine the knowledge and practice of Traditional Health Practitioners in the management of HTN, b). To identify the parts of the plants utilized in the preparation of the IKS-based preparation used in the management of hypertension. c). To determine the procedure employed in preparing the IKS-based preparations used in the management of hypertension. d). To recommend for further elucidation of the possible active compounds in the indigenous based preparations and postulate possible pharmacological mechanisms of actions. The study adopted structured interviews complemented by non-participatory observations. Samples used by traditional healers were collected for identification and characterization A total of twelve (12) traditional healers registered with Traditional Health Practitioners of Zambia who manage hypertension were interviewed. The traditional healers interviewed had knowledge of causes of hypertension, only three (3) indicated bewitchment as one of the causes. spiritual method constituted an important method of diagnosis. The beliefs of Traditional Healers with regard to hypertension indicates their alignment to agreeing the scientific understanding of hypertension in terms of its causes, risk factors and complications. Traditional Healers in Zambia believe hypertension can be managed by some mode of action of the herbs. Common themes that emerged to determine the effectiveness of the herbs used included; patient feedback, physical appearance, confirmation at local clinic and increased urine output. Majority (5/12) felt that there herbs take atleast 7-14 before the effects are seen. All the traditional healers indicated using atleast two (2) types of herbal preparations to manage hypertension. Of the preparations mentioned three (3) were not of plant origin. These include; crocodile fat, pebble and honey. This study observed that the traditional healers of Zambia knowledge of causes and complications of hypertension are alligned to the scientific knowledge. Divination is however still the most important (50%) method used for diagnosis and witchcraft/ spiritual method forms an important method for some for diagnosis of hypertension. It is noteworthy that traditional healers in Zambia believe hypertension can be managed by some mode of action of the herbs a belief shared by the conventional management.	en
+dc.description.sponsorship	National Science and Technology Council (NSTC)	en
+dc.identifier.issn	0047-651 X	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5494	
+dc.language.iso	en	en
+dc.publisher	Zambian Medical Association	en
+dc.subject	hypertension, traditional health practitioners, indigenous knowledge, medicinal plants.	en
+dc.title	Indigenous Knowledge Systems for the Treatment of Hypertension in Lusaka, Zambia: Perceptions, Knowledge and Practice.	en
+dc.type	Article
+
+
+7.
+Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Mataka, Mary	
+dc.contributor.author	Kaonga, Patrick	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Munkombwe, Derrick	
+dc.date.accessioned	2018-11-23T13:22:01Z	
+dc.date.available	2018-11-23T13:22:01Z	
+dc.date.issued	2018-07	
+dc.description.abstract	Opuntia stricta (commonly called prickly pear cactus) is a natural plant that grows in some parts of Zambia where its fruits and cladodes are commonly consumed for nutritional and medicinal purposes, including glycaemic control among some patients with diabetes mellitus (DM). There is insufficient evidence whether Opuntia stricta indigenously growing in Zambia possess antidiabetic effects.To assess in vivo antidiabetic effects of the aqueous extract of Opuntia stricta cladodes in alloxan-induced diabetic mice. A laboratory-based experimental study was conducted involving 20 adult Swiss albino mice (Mus musculus) weighing 18-30 g. DM was induced using a single intraperitoneal dose of alloxan monohydrate 90 mg/kg. Opuntia stricta aqueous extract was administered orally and blood glucose levels (in mmol/L) monitored daily for 10 days. Alloxan induced a 4- to 5-fold sustained increase in blood glucose levels at 72 hours after administration in mice. Within a 10-day experimental period, Opuntia stricta cladode aqueous extract (1 mg/kg) significantly reduced blood glucose levels in vivo (from 16.6 ± 1.4 mmol/L, 95% CI: 14.9-18.3 at baseline to 7.5 ± 1.0 mmol/L, 95% CI: 6.2-8.9 at endpoint, p < 0.001, n = 5). Similarly, at a dose of 2 mg/kg, the extract significantly reduced blood glucose levels (from 18.7 ± 4.6 mmol/L, 95% CI: 13.0-24.4 at baseline to 6.9 ± 1.7 mmol/L, 95% CI: 4.7-9.0 at endpoint, p = 0.001, n = 5). Opuntia stricta cladode aqueous extract attained a greater reduction in blood glucose levels compared to Glibenclamide 0.25 mg/kg. Opuntia stricta cladode aqueous extract demonstrated a presence of alkaloids, flavonoids, saponins, sterols, carbohydrates, phenols and tannins. Opuntia stricta cladode from Zambia demonstrates antidiabetic effects to reduce blood glucose levels in vivo.	en
+dc.identifier.issn	2163-1638	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5492	
+dc.language.iso	en	en
+dc.publisher	Scientific and Academic Publishing	en
+dc.subject	Opuntia, Prickly pear cactus, Cladode, Alloxan, Antidiabetic, Phytochemicals, Zambia	en
+dc.title	Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.	en
+dc.type	Article
