@@ -1,0 +1,115 @@
+Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Mataka, Mary	
+dc.contributor.author	Kaonga, Patrick	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Munkombwe, Derrick	
+dc.date.accessioned	2018-11-23T13:22:01Z	
+dc.date.available	2018-11-23T13:22:01Z	
+dc.date.issued	2018-07	
+dc.description.abstract	Opuntia stricta (commonly called prickly pear cactus) is a natural plant that grows in some parts of Zambia where its fruits and cladodes are commonly consumed for nutritional and medicinal purposes, including glycaemic control among some patients with diabetes mellitus (DM). There is insufficient evidence whether Opuntia stricta indigenously growing in Zambia possess antidiabetic effects.To assess in vivo antidiabetic effects of the aqueous extract of Opuntia stricta cladodes in alloxan-induced diabetic mice. A laboratory-based experimental study was conducted involving 20 adult Swiss albino mice (Mus musculus) weighing 18-30 g. DM was induced using a single intraperitoneal dose of alloxan monohydrate 90 mg/kg. Opuntia stricta aqueous extract was administered orally and blood glucose levels (in mmol/L) monitored daily for 10 days. Alloxan induced a 4- to 5-fold sustained increase in blood glucose levels at 72 hours after administration in mice. Within a 10-day experimental period, Opuntia stricta cladode aqueous extract (1 mg/kg) significantly reduced blood glucose levels in vivo (from 16.6 ± 1.4 mmol/L, 95% CI: 14.9-18.3 at baseline to 7.5 ± 1.0 mmol/L, 95% CI: 6.2-8.9 at endpoint, p < 0.001, n = 5). Similarly, at a dose of 2 mg/kg, the extract significantly reduced blood glucose levels (from 18.7 ± 4.6 mmol/L, 95% CI: 13.0-24.4 at baseline to 6.9 ± 1.7 mmol/L, 95% CI: 4.7-9.0 at endpoint, p = 0.001, n = 5). Opuntia stricta cladode aqueous extract attained a greater reduction in blood glucose levels compared to Glibenclamide 0.25 mg/kg. Opuntia stricta cladode aqueous extract demonstrated a presence of alkaloids, flavonoids, saponins, sterols, carbohydrates, phenols and tannins. Opuntia stricta cladode from Zambia demonstrates antidiabetic effects to reduce blood glucose levels in vivo.	en
+dc.identifier.issn	2163-1638	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5492	
+dc.language.iso	en	en
+dc.publisher	Scientific and Academic Publishing	en
+dc.subject	Opuntia, Prickly pear cactus, Cladode, Alloxan, Antidiabetic, Phytochemicals, Zambia	en
+dc.title	Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.	en
+dc.type	Article
+
+
+Extraction and Demonstration of Uterotonic Activity from the Root of Steganotaenia araliacea Hochst.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Ezeala, Christian	
+dc.contributor.author	Nyirenda, James	
+dc.contributor.author	Chuba, David	
+dc.contributor.author	Simfukwe, Newton	
+dc.contributor.author	Lengwe, Chilufya	
+dc.date.accessioned	2018-11-22T10:29:45Z	
+dc.date.available	2018-11-22T10:29:45Z	
+dc.date.issued	2017-09-14	
+dc.description.abstract	The root of Steganotaenia araliacea is used for assisting labour in folk medicine. Recent reports indicate that the root could possess uterotonic substances.The study aimed to evaluate three methods for the extraction of uterotonic principles from the root of S. araliacea growing in Zambia. Roots of the plant were collected from Chongwe District of Zambia. The air-dried roots were size-reduced, and the powdered material extracted with hot ethanol, hot distilled water, and cold distilled water. The solvent extracts were concentrated and dried at 110 0C. Solutions of the hot aqueous and cold aqueous extracts were prepared in distilled water and used for organ bath experiments to demonstrate uterotonic activities using strips of pregnant rat uterus. The frequencies and amplitude of contractile forces were recorded. The amplitudes were plotted against log concentration of extract with GraphPad Prism software, and the EC50 values determined. The percentage yields were 31.3 % for the hot aqueous extract, 8.15 % for the ethanolic extract, and 3.27 % for the cold aqueous extract. The cold aqueous extract showed higher potency (EC50 of 0.54 mg/ml) compared to the hot aqueous extract (EC50 of 2.09 mg/ml). Root extracts of S. araliacea possess demonstrable uterotonic effects. Extraction of the roots for this purpose could benefit from preliminary defatting with organic solvents, followed by successive extraction with hot and cold water.	en
+dc.description.sponsorship	National Science and technology Council of Zambia	en
+dc.identifier.issn	0047-651X	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5491	
+dc.language.iso	en	en
+dc.publisher	Zambian Medical Association	en
+dc.subject	Steganotaenia araliacea	en
+dc.subject	Child birth	en
+dc.subject	potency	en
+dc.subject	medicinal plant	en
+dc.subject	extraction methods	en
+dc.title	Extraction and Demonstration of Uterotonic Activity from the Root of Steganotaenia araliacea Hochst.	en
+dc.type	Article
+
+Physiological response of uterine muscle to Steganoteania araliacea in rat models
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Lukubi, Lwindi	
+dc.contributor.author	Goma, Fastone	
+dc.contributor.author	Mushabati, Festus	
+dc.contributor.author	Choongo, Kennedy	
+dc.date.accessioned	2018-11-20T11:32:47Z	
+dc.date.available	2018-11-20T11:32:47Z	
+dc.date.issued	2015-01	
+dc.description.abstract	The bark root of Steganotaenia araliacea Hochst (Umbelliferae) nicknamed “herbal pitocin” is used in the traditional circles in Zambia to induce and/or enhance labour. This work was aimed at investigating the contractile stimulatory effects of the aqueous extracts of Steganotaenia araliacea (SAEª) on isolated smooth muscle preparations of the rat uterus. Objectives: To determine the physiological effect of SAEª on isolated pregnant and non-pregnant uterine muscle. Methods: A gravid/non-gravid rat was sacrificed by cervical dislocation (decapitation) method and the abdomen opened to expose the internal organs. The two uterine horns were identified, dissected out and transferred to a dish containing De Jalon’s physiological solution. Acetylcholine (Ach) and Oxytocin (OT) were used as reference agonist with their corresponding antagonists; atropine (AT), and indomethacin and salbutamol (SBM) respectively. The effect of these reference agonists with their corresponding antagonist and that of aqueous extract of SAE on non-pregnant rat uterus pre-treated with 1 mg/kg stilboesterol for 24 h and on the pregnant rat uterus were investigated. Results: In vitro studies of SAEª on uterine tissue showed contractile (uterotonic) activity on both isolated gravid and estrogenized non-gravid rat uterus at the concentration shown in this study. SAE ª significantly increased the amplitude(from baseline value of 0.1471mN to 0.3003mN) and frequency of spontaneous uterine contractions. However, SBM significantly inhibited (p < 0.05) the frequency and amplitude of spontaneous uterine contractions on the isolated pregnant and non – pregnant rat uterus preparations but atropine and indomethacin could not modify the contractions produced by SAEª, hence indicating a non-muscarinic and non-prostaglandin biosynthesis dependant respectively. Conclusion: The inhibition of contractile effect of the crude aqueous extract of SAEª shown by Salbutamol (p < 0.05) suggests the probable stimulation of the Oxytocinergic receptors of the uterus by the extract. These physiological finding justify the traditional use of the plant for its uterotonic properties.	en
+dc.identifier.issn	1694-1217	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5479	
+dc.language.iso	en	en
+dc.publisher	RA Publications	en
+dc.subject	Steganotaenia araliacea, uterine, Oxytocin, Atropine	en
+dc.title	Physiological response of uterine muscle to Steganoteania araliacea in rat models	en
+dc.type	Article
+
+Efficacy of the aqueous root extract of phyllanthus muellerianus in alleviating anemia in rats
+dc.contributor.author	Lwanga, Gershom B.	
+dc.date.accessioned	2019-01-21T12:49:29Z	
+dc.date.available	2019-01-21T12:49:29Z	
+dc.date.issued	2017	
+dc.description	Thesis	en
+dc.description.abstract	Phyllanthus muellerianus (P. muellerianus) is classified under the family Phyllanthaceae consisting of approximately 1,000 species which are widely distributed in Africa, Asia, America and Australia. It is a monoecious, glabrous, straggling shrub or small tree of up to 12 meters tall. It occurs in riverine forest and wooded grasslands on deep and well-drained soils. Different parts of P. muellerianus are used for treatment of a number of diseases in traditional medicine context. In some parts of Zambia, it is used to treat anemia, but its potential has not been scientifically established. Therefore, this study aimed at evaluating the effect of the aqueous root extract of P. muellerianus on the hematological parameters of male albino rats and to determine its phytochemical profile. Thirty-six male albino rats in six groups were used for this study. The groups comprised 100 mg/kg, 200 mg/kg, and 400 mg/kg plant extract, a group on ranferon (drug used to treat anemia), a normal (non-anemic) group and a control (anemic) group. Anemia, induced through repeated bleeding of the rats, was defined as hemoglobin (Hb) < 12 g/dL and the duration of the study was 22 days. The anti-anemic potential of the plant was determined by comparing its effect on the hematological parameters of rats on treatment to that of the control group. Blood samples were collected 3 times for hematological analysis; being at the baseline of the study, after inducing anemia and after treatment. The blood parameters studied include Hb, packed cell volume (PCV), film comment (anisocytosis, poikilocytosis and chromasia), mean cell hemoglobin concentration (MCHC), mean cell hemoglobin (MCH) and mean cell volume (MCV). The phytochemical profile of the root decoction was determined by standard procedures. The results were analysed using SPSS followed by dunnett’s test at a significance of P<0.05. After medication, rats on 400 mg/kg dosage showed the greatest increase in the mean values for Hb, PCV and RBC count of 23.1 %, 23.0 % and 22.2 % respectively, when compared to the anemic control group (P<0.05). The preliminary phytochemical screening of the root extract of P. muellerianus revealed positive results for alkaloids, flavonoids, saponins, glycosides, steroids, triterpenoids and tannins. The aqueous root extract of P. muellerianus was efficient against anemia in experimental groups in a dose dependent manner and the 400 mg/kg dosage was useful. The phytochemical compositions especially alkaloids, flavonoids and saponins seem to be responsible for its hematopoietic properties. Thus, the root decoction of the plant is useful in alleviating anemia and the results lend credence to its use in traditional medicine in the management of anemia. Further studies are needed with this plant to isolate, characterize and elucidate the structure of the bioactive compound/s that is/are responsible for its medicinal value.	en
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5615	
+dc.language.iso	en	en
+dc.publisher	The University of Zambia	en
+dc.subject	Anemia--Phyllanthus muellerianus--Rats(albino)--Zambia	en
+dc.title	Efficacy of the aqueous root extract of phyllanthus muellerianus in alleviating anemia in rats	en
+dc.type	Thesis
+
+Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Mataka, Mary	
+dc.contributor.author	Kaonga, Patrick	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Munkombwe, Derrick	
+dc.date.accessioned	2018-11-23T13:22:01Z	
+dc.date.available	2018-11-23T13:22:01Z	
+dc.date.issued	2018-07	
+dc.description.abstract	Opuntia stricta (commonly called prickly pear cactus) is a natural plant that grows in some parts of Zambia where its fruits and cladodes are commonly consumed for nutritional and medicinal purposes, including glycaemic control among some patients with diabetes mellitus (DM). There is insufficient evidence whether Opuntia stricta indigenously growing in Zambia possess antidiabetic effects.To assess in vivo antidiabetic effects of the aqueous extract of Opuntia stricta cladodes in alloxan-induced diabetic mice. A laboratory-based experimental study was conducted involving 20 adult Swiss albino mice (Mus musculus) weighing 18-30 g. DM was induced using a single intraperitoneal dose of alloxan monohydrate 90 mg/kg. Opuntia stricta aqueous extract was administered orally and blood glucose levels (in mmol/L) monitored daily for 10 days. Alloxan induced a 4- to 5-fold sustained increase in blood glucose levels at 72 hours after administration in mice. Within a 10-day experimental period, Opuntia stricta cladode aqueous extract (1 mg/kg) significantly reduced blood glucose levels in vivo (from 16.6 ± 1.4 mmol/L, 95% CI: 14.9-18.3 at baseline to 7.5 ± 1.0 mmol/L, 95% CI: 6.2-8.9 at endpoint, p < 0.001, n = 5). Similarly, at a dose of 2 mg/kg, the extract significantly reduced blood glucose levels (from 18.7 ± 4.6 mmol/L, 95% CI: 13.0-24.4 at baseline to 6.9 ± 1.7 mmol/L, 95% CI: 4.7-9.0 at endpoint, p = 0.001, n = 5). Opuntia stricta cladode aqueous extract attained a greater reduction in blood glucose levels compared to Glibenclamide 0.25 mg/kg. Opuntia stricta cladode aqueous extract demonstrated a presence of alkaloids, flavonoids, saponins, sterols, carbohydrates, phenols and tannins. Opuntia stricta cladode from Zambia demonstrates antidiabetic effects to reduce blood glucose levels in vivo.	en
+dc.identifier.issn	2163-1638	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5492	
+dc.language.iso	en	en
+dc.publisher	Scientific and Academic Publishing	en
+dc.subject	Opuntia, Prickly pear cactus, Cladode, Alloxan, Antidiabetic, Phytochemicals, Zambia	en
+dc.title	Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.	en
+dc.type	Article
+
+
+Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.
+dc.contributor.author	Prashar, Lavina	
+dc.contributor.author	Kalungia, Chichony Aubrey	
+dc.contributor.author	Mataka, Mary	
+dc.contributor.author	Kaonga, Patrick	
+dc.contributor.author	Bwalya, Angela Gono	
+dc.contributor.author	Munkombwe, Derrick	
+dc.date.accessioned	2018-11-23T13:22:01Z	
+dc.date.available	2018-11-23T13:22:01Z	
+dc.date.issued	2018-07	
+dc.description.abstract	Opuntia stricta (commonly called prickly pear cactus) is a natural plant that grows in some parts of Zambia where its fruits and cladodes are commonly consumed for nutritional and medicinal purposes, including glycaemic control among some patients with diabetes mellitus (DM). There is insufficient evidence whether Opuntia stricta indigenously growing in Zambia possess antidiabetic effects.To assess in vivo antidiabetic effects of the aqueous extract of Opuntia stricta cladodes in alloxan-induced diabetic mice. A laboratory-based experimental study was conducted involving 20 adult Swiss albino mice (Mus musculus) weighing 18-30 g. DM was induced using a single intraperitoneal dose of alloxan monohydrate 90 mg/kg. Opuntia stricta aqueous extract was administered orally and blood glucose levels (in mmol/L) monitored daily for 10 days. Alloxan induced a 4- to 5-fold sustained increase in blood glucose levels at 72 hours after administration in mice. Within a 10-day experimental period, Opuntia stricta cladode aqueous extract (1 mg/kg) significantly reduced blood glucose levels in vivo (from 16.6 ± 1.4 mmol/L, 95% CI: 14.9-18.3 at baseline to 7.5 ± 1.0 mmol/L, 95% CI: 6.2-8.9 at endpoint, p < 0.001, n = 5). Similarly, at a dose of 2 mg/kg, the extract significantly reduced blood glucose levels (from 18.7 ± 4.6 mmol/L, 95% CI: 13.0-24.4 at baseline to 6.9 ± 1.7 mmol/L, 95% CI: 4.7-9.0 at endpoint, p = 0.001, n = 5). Opuntia stricta cladode aqueous extract attained a greater reduction in blood glucose levels compared to Glibenclamide 0.25 mg/kg. Opuntia stricta cladode aqueous extract demonstrated a presence of alkaloids, flavonoids, saponins, sterols, carbohydrates, phenols and tannins. Opuntia stricta cladode from Zambia demonstrates antidiabetic effects to reduce blood glucose levels in vivo.	en
+dc.identifier.issn	2163-1638	
+dc.identifier.uri	http://dspace.unza.zm/handle/123456789/5492	
+dc.language.iso	en	en
+dc.publisher	Scientific and Academic Publishing	en
+dc.subject	Opuntia, Prickly pear cactus, Cladode, Alloxan, Antidiabetic, Phytochemicals, Zambia	en
+dc.title	Opuntia stricta cladode Extract reduces blood glucose levels in Alloxan-induced diabetic mice.	en
+dc.type	Article
